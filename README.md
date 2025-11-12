@@ -16,18 +16,18 @@
 
 ### 🌟 Featured Projects
 <p align="center">
-  <a href="https://github.com/ivanijanicevic/psw-booking-app-frontend">
+  <a href="https://github.com/ivanjanicevic/psw-booking-app-frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanjanicevic&repo=psw-booking-app-frontend&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10&show_icons=true" width="45%" />
   </a>
-  <a href="https://github.com/ivanijanicevic/daily-boss-android-app">
+  <a href="https://github.com/ivanjanicevic/daily-boss-android-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanjanicevic&repo=daily-boss-android-app&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10&show_icons=true" width="45%" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/ivanijanicevic/booking-app-infrastructure">
+  <a href="https://github.com/ivanjanicevic/booking-app-infrastructure">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanjanicevic&repo=booking-app-infrastructure&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10&show_icons=true" width="45%" />
   </a>
-  <a href="https://github.com/ivanijanicevic/warehouse-management-mendix">
+  <a href="https://github.com/ivanjanicevic/warehouse-management-mendix">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ivanjanicevic&repo=warehouse-management-mendix&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&border_color=7cebf5&border_radius=10&show_icons=true" width="45%" />
   </a>
 </p>
